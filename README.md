@@ -36,12 +36,12 @@
 
 ---
 
-## 📊 **Estadísticas de Actividad Académica**
-
 <div align="center">
   <a href="https://github.com/CarlosAriasUTCcuenta2030">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosAriasUTCcuenta2030&theme=tokyonight&hide_border=true" width="450"/>
+    <img src="https://komarev.com/ghpvc/?username=CarlosAriasUTCcuenta2030&label=Perfil%20Vistas&color=0e75b6&style=flat-square" alt="Vistas de Perfil" />
   </a>
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=header&text=Estudiante%20-%20Ingeniería%20de%20Software&fontSize=22&fontColor=ffffff" width="100%" />
 </div>
 
 <br>
@@ -51,8 +51,12 @@
 ## **Contacto Académico** ✉️
 
 <p align="center">
-  <a href="mailto:carlos.arias7306@utc.edu.ec">
-    <img src="https://img.shields.io/badge/Correo_Institucional-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:carlos.arias7306@gmail.com">
+    <img src="https://img.shields.io/badge/carlos.arias7306@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/CarlosAriasUTCcuenta2030" target="_blank">
+    <img src="https://img.shields.io/badge/CarlosAriasUTCcuenta2030-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
